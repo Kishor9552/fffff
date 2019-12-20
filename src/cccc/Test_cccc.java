@@ -35,3 +35,10 @@ public class Test_cccc {
 	 System.out.println(product);
 		return product;
 }
+	public static int addition() {
+		int a=10;
+		int b=20;
+		int sum=a+b;
+		System.out.println(sum);
+		return sum;
+	}
