@@ -28,4 +28,10 @@ public class Test_cccc {
 			
 
 }
+	public static int multiplicationnn(){
+		int a=20;
+		int b=30;
+		int product=a*b;
+	 System.out.println(product);
+		return product;
 }
